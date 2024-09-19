@@ -1,0 +1,42 @@
+.main_btn {
+    justify-content: space-between;
+    font-family: Roboto;
+    color: #212121;
+    margin-right: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+button {
+    margin-bottom: 50px;
+    margin-top: 94px;
+    width: 112px;
+    height: 38px;
+    top: 174px;
+    left: 726px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.main_photo {
+    margin-right: 30px;
+    width: 370px;
+    height: 404px;
+    top: 262px;
+    left: 215px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;   
+}
+
+
+.main_container {
+    justify-content: space-between;
+    width: 100%;
+    max-width: 650px;
+    margin: 0 auto;
+  }
